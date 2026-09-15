@@ -1,0 +1,5 @@
+codigo,nombre,categoria,cantidad,precio
+H001,Notebook,hardware,5,450000.0
+S001,Licencia ERP,software,12,35000.0
+A020,Monitor,hardware,1,55000.0
+ST26,Servicio tecnico,servicio,10,25000.0

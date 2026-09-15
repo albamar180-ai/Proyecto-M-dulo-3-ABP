@@ -1,0 +1,18 @@
+ SISTEMA DE GESTION DE DATOS
+1. Listar productos
+2. Agregar producto
+3. Actualizar stock
+4. Eliminar producto
+5. Ver resumen
+0. Salir
+Seleccione una opcion: 5
+Total productos: 3
+Total unidades: 25
+Total valorizado: $2,870,000
+Categorias: hardware, servicio, software
+
+Seleccione una opcion: 1
+CODIGO     NOMBRE               CATEGORIA    CANT.    PRECIO
+H001       Notebook             hardware     5        $450,000
+S001       Licencia ERP         software     12       $35,000
+SV01       Soporte tecnico      servicio     8        $25,000
